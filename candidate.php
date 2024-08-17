@@ -89,7 +89,7 @@
         <!-- Card Start -->
           <div class="col-md-3 " style=" margin-left:25px; padding-top: 30px;">
                 <div class="card" style="width: 18rem;">
-                  <img class="card-img-top" src="img/9.svg" alt="shinzo" height="350px">
+                  <img class="card-img-top" src="https://online-voting-system.multireligionvalsystem.eu.org/img/9.svg" alt="shinzo" height="350px">
                   <div class="card-body">
                     <h2 class="card-title"><?php echo $row['name']; ?></h2>
                     <p class="card-text"><?php echo $row['branch']; ?></p>
