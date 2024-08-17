@@ -14,7 +14,7 @@ include("header.html");
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
   
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://online-voting-system.multireligionvalsystem.eu.org/css/bootstrap.min.css">
     
 
     <!-- Font Awesome CDN -->
@@ -87,9 +87,9 @@ include("header.html");
         <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   
-    <script src="js/jquery-3.2.1.slim.min.js"></script>
-    <script src="js/popper.min.js"></script>    
-    <script src="js/bootstrap.min.js"></script>  
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/popper.min.js"></script>    
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/bootstrap.min.js"></script>  
 </body>
 </html>
 <?php
