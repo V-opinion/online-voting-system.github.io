@@ -61,7 +61,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </form>
         </div>
         <div class="col-md-8" style="padding-left: 50px; width: 100%; padding-top: 30px;">
-          <img src="img/6.svg" alt="" srcset="">
+          <img src="https://online-voting-system.multireligionvalsystem.eu.org/about.php/img/6.svg" alt="" srcset="">
         </div>
       </div>
     </div>
