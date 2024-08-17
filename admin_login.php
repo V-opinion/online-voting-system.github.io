@@ -2,7 +2,7 @@
 	<html>
 	<head>
 		<title></title>
-		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://online-voting-system.multireligionvalsystem.eu.org/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
 	<style>
@@ -44,9 +44,9 @@
 			</div>
 		</div>
 	</section>
-	<script src="js/jquery-3.2.1.slim.min.js"></script>
-		<script src="js/popper.min.js"></script>    
-		<script src="js/bootstrap.min.js"></script> 
+	<script src="https://online-voting-system.multireligionvalsystem.eu.org/js/jquery-3.2.1.slim.min.js"></script>
+		<script src="https://online-voting-system.multireligionvalsystem.eu.org/js/popper.min.js"></script>    
+		<script src="https://online-voting-system.multireligionvalsystem.eu.org/js/bootstrap.min.js"></script> 
 	</body>
 	</html>
 
