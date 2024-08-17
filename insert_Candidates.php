@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://online-voting-system.multireligionvalsystem.eu.org/css/style.css">
+    <link rel="stylesheet" href="https://online-voting-system.multireligionvalsystem.eu.org/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
@@ -25,7 +25,7 @@
     <div class="container-fluid" id="cont-3">
         <header id="nav-bar">
           <nav class="navbar navbar-expand-lg navbar-light bg-dark">
-            <a class="navbar-brand" href=index.html  style="color: white; font-weight: 600; margin-top: 15px;">GO VOTE</a>
+            <a class="navbar-brand" href=https://online-voting-system.multireligionvalsystem.eu.org/index.html  style="color: white; font-weight: 600; margin-top: 15px;">GO VOTE</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon" style="color: white;"></span>
             </button>
@@ -103,7 +103,7 @@
               </form>
             </div>
             <div class="col-md-6" style="padding-top: 50px;">
-                <img src="img/8.svg" alt="" srcset="">
+                <img src="https://online-voting-system.multireligionvalsystem.eu.org/img/religiosa-ledare.svg" alt="" srcset="">
             </div>
         </div>
     </div>
@@ -114,10 +114,10 @@
         <hr>
         <div class="Footer">
         <ul style="display: flex;">
-                  <li style="list-style: none; padding: 10px; "><a href="index.html" style="text-decoration: none; color: #a517ba;">Home</a></li>
-                  <li style="list-style: none; padding: 10px; "><a href="about.php" style="text-decoration: none; color: #a517ba;">About</a></li>
-                  <li style="list-style: none; padding: 10px; "><a href="suggestion.html" style="text-decoration: none; color: #a517ba;">Suggestion</a></li>
-                  <li style="list-style: none; padding: 10px; "><a href="contact_form.php" style="text-decoration: none; color: #a517ba;">Contact</a></li>
+                  <li style="list-style: none; padding: 10px; "><a href="https://online-voting-system.multireligionvalsystem.eu.org/index.html" style="text-decoration: none; color: #a517ba;">Home</a></li>
+                  <li style="list-style: none; padding: 10px; "><a href="https://online-voting-system.multireligionvalsystem.eu.org/about.php" style="text-decoration: none; color: #a517ba;">About</a></li>
+                  <li style="list-style: none; padding: 10px; "><a href="https://online-voting-system.multireligionvalsystem.eu.org/suggestion.html" style="text-decoration: none; color: #a517ba;">Suggestion</a></li>
+                  <li style="list-style: none; padding: 10px; "><a href="https://online-voting-system.multireligionvalsystem.eu.org/contact_form.php" style="text-decoration: none; color: #a517ba;">Contact</a></li>
                 </ul>
         </div>
       </div>
@@ -162,10 +162,10 @@
        <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
-    <script src="js/jquery-3.2.1.slim.min.js"></script>
-    <script src="js/popper.min.js"></script>    
-    <script src="js/bootstrap.min.js"></script>  
-    <!-- <script src="js/aos.js"></script>
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/popper.min.js"></script>    
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/bootstrap.min.js"></script>  
+    <!-- <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/aos.js"></script>
     <script>
      AOS.init();
     </script> -->
