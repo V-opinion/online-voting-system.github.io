@@ -1,9 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5P4LD3288P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5P4LD3288P');
+</script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','G-5P4LD3288P');</script>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Tre reformer som förändrar världen | A multi-religion election</title>
+	 
+<meta name="description" content="online voting system ,A multi-religion election .">
+<meta name="abstract" content="Political Practices in Exile: politik, historia,A multi-religion election system, religionskunskap .">
+<meta name="keywords" content="EUs-medborgarinitiativ, Politik, Historia, Geografi, Religionskunskap, online-voting-system,Tre reformer som förändrar världen, A multi-religion election system, The Faith Representatives Chamber (FRC),Multi-Religion Support ">
+	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
