@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://online-voting-system.multireligionvalsystem.eu.org(css/style.css">
+    <link rel="stylesheet" href="https://online-voting-system.multireligionvalsystem.eu.org/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
@@ -104,7 +104,7 @@
               </form>
             </div>
             <div class="col-md-6" style="padding-top: 50px;">
-                <img src="img/8.svg" alt="" srcset="">
+                <img src="https://online-voting-system.multireligionvalsystem.eu.org/img/religiosa-ledare.svg" alt="" srcset="">
             </div>
         </div>
     </div>
