@@ -127,27 +127,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="social-icon">
                     <ul >
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.facebook.com/demokratin">
                                             <i class="fa fa-facebook"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="https://multireligionvalsystem.blogspot.com/">
                                             <i class="fa fa-google-plus"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="http://se.linkedin.com/in/solidarity">
                                             <i class="fa fa-linkedin"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="https://twitter.com/DPNS">
                                             <i class="fa fa-twitter"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.pinterest.se/denyasvenskarna/">
                                             <i class="fa fa-pinterest"></i>
                                         </a>
                                     </li>
