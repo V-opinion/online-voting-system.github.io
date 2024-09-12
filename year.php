@@ -52,13 +52,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="row">
             <div class="col-md-12">
             <h2 class="h2_1">Select Voting Year</h2>
-            <a href="candidate.php"><button style="margin-top:50px;" class="btn-special-2">1<sup>st</sup> Year </button></a>
+            <a href="https://online-voting-system.multireligionvalsystem.eu.org/candidate.php"><button style="margin-top:50px;" class="btn-special-2">1<sup>st</sup> Year </button></a>
             </div>
             <div class="col-md-12">
-            <a href="2nd_cand.php"><button style="margin-top:60px;" class="btn-special-2">2<sup>nd</sup> Year </button></a>
+            <a href="https://online-voting-system.multireligionvalsystem.eu.org/2nd_cand.php"><button style="margin-top:60px;" class="btn-special-2">2<sup>nd</sup> Year </button></a>
             </div>
             <div class="col-md-12">
-            <a href="3rd_cand.php"><button style="margin-top:60px; " class="btn-special-2">3<sup>rd</sup> Year </button></a>
+            <a href="https://online-voting-system.multireligionvalsystem.eu.org/3rd_cand.php"><button style="margin-top:60px; " class="btn-special-2">3<sup>rd</sup> Year </button></a>
             </div>
         </div>
     </div>
