@@ -2,20 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5P4LD3288P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-5P4LD3288P');
-</script>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','G-5P4LD3288P');</script>
+})(window,document,'script','dataLayer','GTM-N8GM42SL');</script>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Tre reformer som förändrar världen | A multi-religion election</title>
 	 
@@ -49,6 +40,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </style>
 </head>
 <body>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8GM42SL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="container-fluid" id="cont-3">
         <header id="nav-bar">
           <nav class="navbar navbar-expand-lg navbar-light bg-dark">
@@ -89,13 +82,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-            <a href="user_deatils.php"><button style="margin-top:80px;" class="btn-special-2">1<sup>st</sup> Year </button></a>
+            <a href="https://online-voting-system.multireligionvalsystem.eu.org/user_deatils.php"><button style="margin-top:80px;" class="btn-special-2">1<sup>st</sup> Year </button></a>
             </div>
             <div class="col-md-12">
-            <a href="user_details_2.php"><button style="margin-top:80px;" class="btn-special-2">2<sup>nd</sup> Year </button></a>
+            <a href="https://online-voting-system.multireligionvalsystem.eu.org/user_details_2.php"><button style="margin-top:80px;" class="btn-special-2">2<sup>nd</sup> Year </button></a>
             </div>
             <div class="col-md-12">
-            <a href="user_details_3.php"><button style="margin-top:80px; " class="btn-special-2">3<sup>rd</sup> Year </button></a>
+            <a href="https://online-voting-system.multireligionvalsystem.eu.org/user_details_3.php"><button style="margin-top:80px; " class="btn-special-2">3<sup>rd</sup> Year </button></a>
             </div>
         </div>
     </div>
