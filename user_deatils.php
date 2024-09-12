@@ -28,8 +28,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
  <!-- Bootstrap CSS -->
- <link rel="stylesheet" href="css/bootstrap.min.css">
- <link rel="stylesheet" href="css/style.css">
+ <link rel="stylesheet" href="https://online-voting-system.multireligionvalsystem.eu.org/css/bootstrap.min.css">
+ <link rel="stylesheet" href="https://online-voting-system.multireligionvalsystem.eu.org/css/style.css">
  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
  <title></title>
 </head>
@@ -44,27 +44,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav ml-auto animate__animated animate__bounceInDown" style="padding-right: 50px;">
                 <li class="nav-item" >
-                  <a class="nav-link" href="index.html" style="color:white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Home</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/index.html" style="color:white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Home</a>
                 </li>
                 <li class="nav-item" >
-                  <a class="nav-link" href="admin_dashboard.php" style="color:white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Dashboard</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/admin_dashboard.php" style="color:white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Dashboard</a>
                 </li>
                 <li class="nav-item" >
-                  <a class="nav-link" href="user_suggestion.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Suggestions</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/user_suggestion.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Suggestions</a>
                 </li>
                 <li class="nav-item" >
-                  <a class="nav-link" href="show_contact.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Contact</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/show_contact.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Contact</a>
                 </li>
               
                 <li class="nav-item">
-                  <a class="nav-link" href="user_details_year.php" style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Users</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/user_details_year.php" style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Users</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="user_cand_year.php" style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Candidates</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/user_cand_year.php" style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Candidates</a>
                 </li>
               
                 <li class="nav-item" >
-                  <a class="nav-link" href="logout.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Logout</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/logout.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Logout</a>
                 </li>
               
               </ul>
@@ -127,10 +127,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
       
-        <script src="js/jquery-3.2.1.slim.min.js"></script>
-        <script src="js/popper.min.js"></script>    
-        <script src="js/bootstrap.min.js"></script>  
-        <!-- <script src="js/aos.js"></script>
+        <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/jquery-3.2.1.slim.min.js"></script>
+        <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/popper.min.js"></script>    
+        <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/bootstrap.min.js"></script>  
+        <!-- <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/aos.js"></script>
         <script>
          AOS.init();
         </script> -->
