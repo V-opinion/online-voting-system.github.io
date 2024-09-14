@@ -54,18 +54,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav ml-auto animate__animated animate__bounceInDown" style="padding-right: 50px;">
                 <li class="nav-item" >
-                  <a class="nav-link" href="index.html" style="color:white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Home</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org(index.html" style="color:white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Home</a>
                 </li>
                 <li class="nav-item" >
-                  <a class="nav-link" href="candidate.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Candidate</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org(candidate.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Candidate</a>
                 </li>
               
                 <li class="nav-item">
-                  <a class="nav-link" href="result.php" style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Result</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org(result.php" style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Result</a>
                 </li>
               
                 <li class="nav-item" >
-                  <a class="nav-link" href="about.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">About</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org(about.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">About</a>
                 </li>
               
               </ul>
@@ -136,10 +136,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <hr>
         <div class="Footer">
         <ul style="display: flex;">
-                  <li style="list-style: none; padding: 10px; "><a href="index.html" style="text-decoration: none; color: #a517ba;">Home</a></li>
-                  <li style="list-style: none; padding: 10px; "><a href="about.php" style="text-decoration: none; color: #a517ba;">About</a></li>
-                  <li style="list-style: none; padding: 10px; "><a href="suggestion.html" style="text-decoration: none; color: #a517ba;">Suggestion</a></li>
-                  <li style="list-style: none; padding: 10px; "><a href="contact_form.php" style="text-decoration: none; color: #a517ba;">Contact</a></li>
+                  <li style="list-style: none; padding: 10px; "><a href="https://online-voting-system.multireligionvalsystem.eu.org(index.html" style="text-decoration: none; color: #a517ba;">Home</a></li>
+                  <li style="list-style: none; padding: 10px; "><a href="https://online-voting-system.multireligionvalsystem.eu.org(about.php" style="text-decoration: none; color: #a517ba;">About</a></li>
+                  <li style="list-style: none; padding: 10px; "><a href="https://online-voting-system.multireligionvalsystem.eu.org(suggestion.html" style="text-decoration: none; color: #a517ba;">Suggestion</a></li>
+                  <li style="list-style: none; padding: 10px; "><a href="https://online-voting-system.multireligionvalsystem.eu.org(contact_form.php" style="text-decoration: none; color: #a517ba;">Contact</a></li>
                 </ul>
         </div>
       </div>
@@ -153,22 +153,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="https://www.facebook.com/demokratin">
                                   <i class="fa fa-google-plus"></i>
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="http://se.linkedin.com/in/solidarity">
                                   <i class="fa fa-linkedin"></i>
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="https://twitter.com/DPNS">
                                   <i class="fa fa-twitter"></i>
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="https://www.pinterest.se/denyasvenskarna/">
                                   <i class="fa fa-pinterest"></i>
                               </a>
                           </li>
@@ -184,9 +184,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
-    <script src="js/jquery-3.2.1.slim.min.js"></script>
-    <script src="js/popper.min.js"></script>    
-    <script src="js/bootstrap.min.js"></script>  
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org(js/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org(js/popper.min.js"></script>    
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org(js/bootstrap.min.js"></script>  
   
 </body>
 </html>
