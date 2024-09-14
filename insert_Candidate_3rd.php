@@ -147,7 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="social-icon">
           <ul >
                           <li>
-                              <a href="">
+                              <a href="https://www.facebook.com/demokratin">
                                   <i class="fa fa-facebook"></i>
                               </a>
                           </li>
@@ -157,17 +157,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="http://se.linkedin.com/in/solidarity">
                                   <i class="fa fa-linkedin"></i>
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="https://twitter.com/DPNS">
                                   <i class="fa fa-twitter"></i>
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="https://www.pinterest.se/denyasvenskarna/">
                                   <i class="fa fa-pinterest"></i>
                               </a>
                           </li>
@@ -183,9 +183,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
-    <script src="js/jquery-3.2.1.slim.min.js"></script>
-    <script src="js/popper.min.js"></script>    
-    <script src="js/bootstrap.min.js"></script>  
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/popper.min.js"></script>    
+    <script src="https://online-voting-system.multireligionvalsystem.eu.org/js/bootstrap.min.js"></script>  
   
 </body>
 </html>
