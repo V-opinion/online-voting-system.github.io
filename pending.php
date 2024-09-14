@@ -2,20 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5P4LD3288P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-5P4LD3288P');
-</script>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','G-5P4LD3288P');</script>
+})(window,document,'script','dataLayer','GTM-N8GM42SL');</script>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Tre reformer som förändrar världen | A multi-religion election</title>
 	 
@@ -48,6 +39,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      </style>
 </head>
 <body>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8GM42SL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container-fluid" id="cont-3">
         <header id="nav-bar">
           <nav class="navbar navbar-expand-lg navbar-light bg-dark">
@@ -117,7 +110,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <div class="social-icon">
                     <ul >
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.facebook.com/demokratin">
                                             <i class="fa fa-facebook"></i>
                                         </a>
                                     </li>
@@ -127,17 +120,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="http://se.linkedin.com/in/solidarity">
                                             <i class="fa fa-linkedin"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="https://twitter.com/DPNS">
                                             <i class="fa fa-twitter"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.pinterest.se/denyasvenskarna/">
                                             <i class="fa fa-pinterest"></i>
                                         </a>
                                     </li>
