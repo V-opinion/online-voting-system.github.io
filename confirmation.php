@@ -124,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </form>
             </div>
             <div class="col-md-6" style="padding-top: 50px;">
-                <img src="img/7.svg" alt="" srcset="">
+                <img src="https://online-voting-system.multireligionvalsystem.eu.org/img/7.svg" alt="" srcset="">
             </div>
         </div>
     </div>
