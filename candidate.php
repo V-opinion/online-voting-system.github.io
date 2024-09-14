@@ -106,7 +106,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="card-body">
                     <h2 class="card-title"><?php echo $row['name']; ?></h2>
                     <p class="card-text"><?php echo $row['branch']; ?></p>
-                    <a href="confirmation.php" class="btn btn-primary">Vote Now</a>
+                    <a href="https://online-voting-system.multireligionvalsystem.eu.org/confirmation.php" class="btn btn-primary">Vote Now</a>
                   </div>
                 </div>
               </div>
