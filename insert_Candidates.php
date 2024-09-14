@@ -53,18 +53,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav ml-auto animate__animated animate__bounceInDown" style="padding-right: 50px;">
                 <li class="nav-item" >
-                  <a class="nav-link" href="index.html" style="color:white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Home</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/index.html" style="color:white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Home</a>
                 </li>
                 <li class="nav-item" >
-                  <a class="nav-link" href="candidate.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Candidate</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/candidate.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Candidate</a>
                 </li>
               
                 <li class="nav-item">
-                  <a class="nav-link" href="result.php" style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Result</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/result.php" style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Result</a>
                 </li>
               
                 <li class="nav-item" >
-                  <a class="nav-link" href="about.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">About</a>
+                  <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/about.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">About</a>
                 </li>
               
               </ul>
@@ -147,7 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="social-icon">
           <ul >
                           <li>
-                              <a href="">
+                              <a href="https://www.facebook.com/demokratin">
                                   <i class="fa fa-facebook"></i>
                               </a>
                           </li>
@@ -157,17 +157,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="http://se.linkedin.com/in/solidarity">
                                   <i class="fa fa-linkedin"></i>
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="https://twitter.com/DPNS">
                                   <i class="fa fa-twitter"></i>
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="https://www.pinterest.se/denyasvenskarna/">
                                   <i class="fa fa-pinterest"></i>
                               </a>
                           </li>
