@@ -1,11 +1,11 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../politisk-cirkelmedfrogr.htm"/>
- <o:File HRef="image001.jpg"/>
- <o:File HRef="image002.jpg"/>
- <o:File HRef="image003.jpg"/>
- <o:File HRef="image004.jpg"/>
- <o:File HRef="image005.jpg"/>
- <o:File HRef="image006.jpg"/>
- <o:File HRef="header.htm"/>
- <o:File HRef="filelist.xml"/>
+ <o:MainFile HRef="https://online-voting-system.multireligionvalsystem.eu.org/politisk-cirkelmedfrogr.htm"/>
+ <o:File HRef="https://online-voting-system.multireligionvalsystem.eu.org/image001.jpg"/>
+ <o:File HRef="https://online-voting-system.multireligionvalsystem.eu.org/image002.jpg"/>
+ <o:File HRef="https://online-voting-system.multireligionvalsystem.eu.org/image003.jpg"/>
+ <o:File HRef="https://online-voting-system.multireligionvalsystem.eu.org/image004.jpg"/>
+ <o:File HRef="https://online-voting-system.multireligionvalsystem.eu.org/image005.jpg"/>
+ <o:File HRef="https://online-voting-system.multireligionvalsystem.eu.org/image006.jpg"/>
+ <o:File HRef="https://online-voting-system.multireligionvalsystem.eu.org/header.htm"/>
+ <o:File HRef="https://online-voting-system.multireligionvalsystem.eu.org/filelist.xml"/>
 </xml>
