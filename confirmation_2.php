@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Multireligionvalsystem</title>
     <link rel="stylesheet" href="https://online-voting-system.multireligionvalsystem.eu.org/css/style.css">
     <link rel="stylesheet" href="https://online-voting-system.multireligionvalsystem.eu.org/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -133,7 +133,7 @@
         <div class="social-icon">
           <ul >
                           <li>
-                              <a href="">
+                              <a href="https://www.facebook.com/demokratin">
                                   <i class="fa fa-facebook"></i>
                               </a>
                           </li>
@@ -143,12 +143,12 @@
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="http://se.linkedin.com/in/solidarity">
                                   <i class="fa fa-linkedin"></i>
                               </a>
                           </li>
                           <li>
-                              <a href="">
+                              <a href="https://twitter.com/DPNS">
                                   <i class="fa fa-twitter"></i>
                               </a>
                           </li>
