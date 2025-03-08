@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- 
+ <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MMV2S7Z6');</script>
 
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -46,7 +50,7 @@
 </style>
 </head>
 <body>
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8GM42SL"
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMV2S7Z6"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!------------------  Navbar Section ------------------>
   <div class="container-fluid" id="cont-3">
@@ -62,15 +66,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/index.html" style="color:white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Home</a>
             </li>
             <li class="nav-item" >
-              <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/candidate.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Candidate</a>
+              <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/candidate.html"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Candidate</a>
             </li>
           
             <li class="nav-item">
-              <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/result.php" style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Result</a>
+              <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/result.html" style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">Result</a>
             </li>
           
             <li class="nav-item" >
-              <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/about.php"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">About</a>
+              <a class="nav-link" href="https://online-voting-system.multireligionvalsystem.eu.org/about.html"  style="color: white; font-weight: 600; text-align: center; font-size: 18px; margin-top: 20px;  text-transform: capitalize; padding: 20px;">About</a>
             </li>
           
           </ul>
@@ -101,7 +105,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- Card Start -->
           <div class="col-md-3 " style=" margin-left:25px; padding-top: 30px;">
                 <div class="card" style="width: 18rem;">
-                  <img class="card-img-top" src="img/9.svg" alt="shinzo" height="350px">
+                  <img class="card-img-top" src="https://online-voting-system.multireligionvalsystem.eu.org/img/9.svg" alt="shinzo" height="350px">
                   <div class="card-body">
                     <h2 class="card-title"><?php echo $row['name']; ?></h2>
                     <p class="card-text"><?php echo $row['branch']; ?></p>
