@@ -1,0 +1,50 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Online Voting System</title>
+  <link rel="stylesheet" href="styles.min.css" />
+  <!-- Google Analytics -->
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'YOUR_TRACKING_ID');
+  </script> -->
+</head>
+<body>
+  <header>
+    <h1>Secure Online Voting</h1>
+    <a href="#register" class="btn">Register to Vote</a>
+  </header>
+
+  <section id="how-it-works">
+    <h2>How It Works</h2>
+    <ol>
+      <li>Register securely</li>
+      <li>Verify your identity</li>
+      <li>Cast your vote</li>
+      <li>See transparent results</li>
+    </ol>
+  </section>
+
+  <section id="vote">
+    <h2>Vote Now</h2>
+    <form action="submit_vote.php" method="POST">
+      <!-- Your form fields -->
+      <label for="vote">Your Vote:</label>
+      <select id="vote" name="vote" required>
+        <option value="">Select an option</option>
+        <!-- options -->
+      </select>
+      <!-- reCAPTCHA -->
+      <div class="g-recaptcha" data-sitekey="your-site-key"></div>
+      <button type="submit">Cast Vote</button>
+    </form>
+  </section>
+
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</body>
+</html>
