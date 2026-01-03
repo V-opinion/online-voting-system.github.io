@@ -202,6 +202,30 @@ start
           </div>
         </div>
       </section>
+		<section id="how-it-works">
+    <h2>How It Works</h2>
+    <ol>
+      <li>Register securely</li>
+      <li>Verify your identity</li>
+      <li>Cast your vote</li>
+      <li>See transparent results</li>
+    </ol>
+  </section>
+
+  <section id="vote">
+    <h2>Vote Now</h2>
+    <form action="submit_vote.php" method="POST">
+      <!-- Your form fields -->
+      <label for="vote">Your Vote:</label>
+      <select id="vote" name="vote" required>
+        <option value="">Select an option</option>
+        <!-- options -->
+      </select>
+      <!-- reCAPTCHA -->
+      <div class="g-recaptcha" data-sitekey="your-site-key"></div>
+      <button type="submit">Cast Vote</button>
+    </form>
+  </section>
     </div>
     <!------------------  Space Section ------------------>
     <section class="space">
@@ -220,7 +244,7 @@ start
         <div class="col-md-12" style=" width: 100%; "> <img src="https://online-voting-system.multireligionvalsystem.eu.org/bist%C3%A5ndet%20till%20Palestinier.png"
 
             alt="FRC" srcset="" style="width: 918px; height: 953px;"> </div>
-        <div class="col-md-12"> <a href="candidate.php"><span><button style="margin-top: 20px;"
+        <div class="col-md-12"> <a href="https://online-voting-system.multireligionvalsystem.eu.org/candidate.php"><span><button style="margin-top: 20px;"
 
                 class="slideUpBtn">Vote Now</button></span></a> </div>
       </div>
@@ -422,7 +446,9 @@ defer>
  <br><a href="http://solidarity.webblogg.se/2017/may/" rel="dofollow">Besök !Det är dags för en ny folkomröstning om EURO</a>
 
  <br><a href="https://sites.google.com/site/denyasvenskarna/demokrati" rel="dofollow">Besök vad är demokrati</a>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
   </body>
 </html>
+
 
 
